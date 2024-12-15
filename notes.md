@@ -626,7 +626,7 @@ WHOIS is a **TCP-based query-response protocol** that retrieves domain or IP reg
 | Save Output to a File              | `whois example.com > output.txt`           |
 | Perform WHOIS for Multiple Domains | `for domain in $(cat domains.txt); do whois $domain; done` |
 
-###**dig** | **nslookup** | **host** |   ---- are some alternatives
+### **dig** | **nslookup** | **host** |   ---- are some alternatives
 
    * https://whois.domaintools.com
 
@@ -707,10 +707,10 @@ python sublist3r.py -d example.com
 
 <br>
 
-##THE  MOST IMPORTANT TOOLS LIST FOR FOOTPRINTING :-
+## THE  MOST IMPORTANT TOOLS LIST FOR FOOTPRINTING :-
 # *<a href="https://osintframework.com/" style="color:rgb(255, 38, 0); font-weight: bold;">OSINT Framework</a>*
 
-##*some additional footprinting tools are listed Below*
+## *some additional footprinting tools are listed Below*
 
 ###  - [maltego](https://www.maltego.com) 
 ###  - [recon-ng](https://github.com/lanmaster53/recon-ng)
